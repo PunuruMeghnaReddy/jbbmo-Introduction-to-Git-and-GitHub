@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Final Project - Simple Interest Calculator
 # jbbmo-Introduction-to-Git-and-GitHub
 
@@ -20,3 +21,21 @@ Fixed a small typo as part of the GitHub exercise.
 ## How to Run the Script
 ```bash
 bash simple-interest.sh
+=======
+# Introduction to Git and GitHub
+
+## Simple Interest Calculator
+
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+```
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+```
+
+_© 2022 XYZ, Inc._
+>>>>>>> 83026bb2b9688feea1dea289ca22efd7209440dd

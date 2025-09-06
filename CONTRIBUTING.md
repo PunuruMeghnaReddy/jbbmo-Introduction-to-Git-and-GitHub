@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Contributing Guidelines
 
 Thank you for your interest in contributing to this project!
@@ -14,3 +15,6 @@ Thank you for your interest in contributing to this project!
 
 ## Reporting Issues
 If you find a bug or have a feature request, please open an issue in the repository.
+=======
+ All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+>>>>>>> 83026bb2b9688feea1dea289ca22efd7209440dd
